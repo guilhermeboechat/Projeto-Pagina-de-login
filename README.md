@@ -2,10 +2,11 @@
 
 Projeto pessoal utilizando HTML e CSS para fins de estudo. <br>
 Criei esse projeto apenas como um exercício para testar novas funcionalidades e praticar. <br>
+Para ver o projeto em funcionamento [**`clique aqui`**](https://guilhermeboechat.github.io/Projeto-Pagina-de-login/index.html) <br>
 <br>
 ## Ideia 
 A ideia inicial do projeto era apenas criar uma area de login simples para praticar flexboxes, efeito blur, transparencia etc. Porém ao longo do projeto resolvi implementar mais algumas coisas e me divertir. <br> 
-   Utilizei um recurso exeterno, na criação do background e do fluido no card da sessão projeto, muito interessante, o [**`Vectary`**](https://app.vectary.com"), um software 3d grátis.<br>
+   Utilizei um recurso exeterno, na criação do background e do fluido no card da sessão projeto, muito interessante, o [**`Vectary`**](https://www.vectary.com/), um software 3d grátis.<br>
    ## Telas
    - Tela de Login:
    ![login-screen](https://user-images.githubusercontent.com/126163047/221380173-2da9d78e-0bb8-4216-9608-1fd98429a5b8.jpg) <br>
